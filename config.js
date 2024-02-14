@@ -1,5 +1,5 @@
 var config = {
-    style: 'mapbox://styles/alanacg/clrjmsn2r000b01p58f1p9cne',
+    style: 'mapbox://styles/alanacg/clri954qp00dy01qocvvp6hjg',
     accessToken: 'pk.eyJ1IjoiYWxhbmFjZyIsImEiOiJjbHI2dTdmaTgyYmJkMmtteWg4aTFyYjd0In0.4egkQvHeJNw_VNBgcSEZmg',
     showMarkers: true,
     markerColor: '#3FB1CE',
@@ -10,9 +10,9 @@ var config = {
     theme: 'dark',
     use3dTerrain: false, //set true for enabling 3D maps.
     auto: false,
-    title: 'The Title Text of this Story',
+    title: 'Example Storytelling for Lab Meeting',
     subtitle: 'A descriptive and interesting subtitle to draw in the reader',
-    byline: 'By a Digital Storyteller',
+    byline: 'By Alana Ginsburg',
     footer: 'Source: source citations, etc. <br> Created using <a href="https://github.com/mapbox/storytelling" target="_blank">Mapbox Storytelling</a> template.',
     chapters: [
         {
