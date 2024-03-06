@@ -19,7 +19,7 @@ var config = {
             id: 'slug-style-id',
             alignment: 'left', //options are left, right, center, full
             hidden: false,
-            title: 'Display Title',
+            title: 'Testing to see if anything changes',
             image: 'images/source.png',
             description: '<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident </p>',
             //text for description is html- can rely on that for extra formatting
